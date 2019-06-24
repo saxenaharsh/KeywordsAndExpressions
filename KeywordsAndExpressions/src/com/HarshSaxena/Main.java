@@ -15,5 +15,17 @@ public class Main {
             System.out.println("This is an expression");
         }
 
+        //Challenge problem
+        int score = 100;
+        if(score > 90){
+            System.out.println("YOu got the high score!");
+            score = 0;
+
+            System.out.println("score = 100 is an expression");
+            System.out.println("score > 90 is an expression");
+            System.out.println("score = 0 is an expression");
+            System.out.println("You got the high Score! is also an expression");
+        }
+
     }
 }
